@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nd0191-c1-myreads/static/css/main.beca2a2a.css",
+    "main.js": "/nd0191-c1-myreads/static/js/main.77e9cf46.js",
+    "index.html": "/nd0191-c1-myreads/index.html",
+    "static/media/arrow-back.svg": "/nd0191-c1-myreads/static/media/arrow-back.cd079cab42defead9875.svg",
+    "static/media/add.svg": "/nd0191-c1-myreads/static/media/add.1b5d9b6afb5557f7992c.svg",
+    "static/media/arrow-drop-down.svg": "/nd0191-c1-myreads/static/media/arrow-drop-down.4378492a3a09dbfc31ff.svg",
+    "main.beca2a2a.css.map": "/nd0191-c1-myreads/static/css/main.beca2a2a.css.map",
+    "main.77e9cf46.js.map": "/nd0191-c1-myreads/static/js/main.77e9cf46.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.beca2a2a.css",
+    "static/js/main.77e9cf46.js"
+  ]
+}
