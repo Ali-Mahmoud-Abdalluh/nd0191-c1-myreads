@@ -1,3 +1,4 @@
+
 const api = "https://reactnd-books-api.udacity.com";
 
 let token = localStorage.token;
@@ -38,5 +39,11 @@ export const search = (query, maxResults) =>
     },
     body: JSON.stringify({ query, maxResults }),
   })
-    .then((res) => res.json())
+    .then((res) => {
+      try{
+        return res.json();
+      }catch(error){
+        
+      }
+    })
     .then((data) => data.books);
